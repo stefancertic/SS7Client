@@ -1,0 +1,6 @@
+0 MGMT
+1 Transfer
+2 SSNM
+3 ASPSM
+4 ASPTM
+9 RKM

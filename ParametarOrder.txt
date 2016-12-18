@@ -1,0 +1,23 @@
+MGMT ERR ErrorCode_RoutingContext_NetworkAppearance_AffectedPointCode_DiagnosticInformation 
+MGMT NTFY Status 
+Transfer DATA NetworkAppearance_RoutingContext_ProtocolData_CorrelationId  
+SSNM DUNA NetworkAppearance_RoutingContext_AffectedPointCode_InfoString  
+SSNM DAVA AffectedPointCode_RoutingContext 
+SSNM DAUD AffectedPointCode
+SSNM SCON NetworkAppearance_RoutingContext_AffectedPointCode_ConcernedDestination_CongestionIndications_InfoString  
+SSNM DUPU NetworkAppearance_RoutingContext_AffectedPointCode_UserCause_InfoString
+SSNM DRST NetworkAppearance_RoutingContext_AffectedPointCode_InfoString
+SSNM ASPSM ASPUP ASPIdentifier_InfoString
+SSNM ASPSM ASPDN InfoString
+SSNM ASPSM BEAT HeartbeatData
+SSNM ASPSM ASPUP_ACK InfoString
+SSNM ASPSM ASPDN_ACK InfoString
+SSNM ASPSM BEAT_ACK HeartbeatData
+ASPTM ASPAC TrafficModeType_RoutingContext
+ASPTM ASPIA RoutingContext_InfoString
+ASPTM ASPAC_ACK RoutingContext_TrafficModeType
+ASPTM ASPIA_ACK TrafficModeType_RoutingContext_InfoString
+RKM REG_REQ RoutingKey
+RKM REG_RSP RegistrationResult
+RKM DEREG_REQ RoutingContext
+RKM DEREG_RSP DeregistrationResult
